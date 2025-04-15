@@ -35,8 +35,9 @@ Additionally, live stock data is integrated using Zerodha Kite and Google Financ
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Results**
 1. Stock Clusters by PE Ratios and Sales in crore(2024)
-   ![image](https://github.com/user-attachments/assets/adeb54d7-cd8a-4ce6-9a91-626e0573b2ad)
    
+ ![image](https://github.com/user-attachments/assets/1791ae5d-f625-44a8-839a-95a5be9989a9)
+
 Top Stocks in Cluster 0:
       TICKERS      Rank
 0    ADANIENT  2.394759
@@ -60,11 +61,13 @@ Top Stocks in Cluster 2:
 11   COALINDIA -1.301352
 
 2. Tickers VS SMAs
-   ![image](https://github.com/user-attachments/assets/2fba3a28-028d-46a3-a61b-4cd8bd42f9cd)
+   
+   ![image](https://github.com/user-attachments/assets/4b18a9c7-f11d-4b9f-bc69-0e691cd56fed)
 
-3. Selected stock using Hill Climbing Algorithm
+
+4. Selected stock using Hill Climbing Algorithm
    Initial Stock: ADANIPORTS, Score: 11264.98
-Moved to Stock: COALINDIA, Score: 57123.55
+   Moved to Stock: COALINDIA, Score: 57123.55
 Moved to Stock: BHARTIARTL, Score: 61365.01
 
 Best Stock Selected:
