@@ -69,23 +69,18 @@ Top Stocks in Cluster 2:
 
 
 4. Selected stock using Hill Climbing Algorithm
-   Initial Stock: ADANIPORTS, Score: 11264.98
+   Initial Stock:  ADANIPORTS,  Score:  11264.98
    
-   Moved to Stock: COALINDIA, Score: 57123.55
+   Moved to Stock:  COALINDIA,  Score: 57123.55
    
-   Moved to Stock: BHARTIARTL, Score: 61365.01
+   Moved to Stock:  BHARTIARTL,  Score: 61365.01
 
    Best Stock Selected:
    
-   TICKERS                 BHARTIARTL
-   
-   PE Ratios                    42.79
-   
-   DER                           1.25
-   
-   Sales in crore(2024)      151418.0
-   
-   SMA                         1621.8
+| TICKERS   | PE Ratios | DER  | Sales in Crore (2024) | SMA    |
+|-----------|-----------|------|------------------------|--------|
+| BHARTIARTL | 42.79     | 1.25 | 151418.0               | 1621.8 |
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
