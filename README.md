@@ -15,7 +15,7 @@ The key metrics used for portfolio optimization are:
 2. Debt to Equity Ratio (DER)
 3. Sales in Crore (2023 and 2024)
 4. Simple Moving Average (SMA)
-![image](https://github.com/user-attachments/assets/8b5a298a-d300-4b1d-9ad2-8f146a782299)
+<img src="https://github.com/user-attachments/assets/8b5a298a-d300-4b1d-9ad2-8f146a782299" width="400"/>
 
 Additionally, live stock data is integrated using Zerodha Kite and Google Finance, providing tick-by-tick market data for real-time analysis during market hours.
 
@@ -92,4 +92,4 @@ Top Stocks in Cluster 2:
 
 
 
-<img src="https://github.com/user-attachments/assets/8b5a298a-d300-4b1d-9ad2-8f146a782299" width="400"/>
+
