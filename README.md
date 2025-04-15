@@ -18,6 +18,7 @@ The key metrics used for portfolio optimization are:
    
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8b5a298a-d300-4b1d-9ad2-8f146a782299" width="400"/>
+   Data Sample
 </p>
 
 
