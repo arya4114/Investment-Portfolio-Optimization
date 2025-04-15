@@ -89,3 +89,7 @@ Top Stocks in Cluster 2:
 2. Normalization: Financial metrics such as PE Ratios, DER, and SMA were normalized to ensure that they contribute equally to the optimization process.
 3. Live Data Integration: Using APIs like Zerodha Kite and Google Finance, the portfolio's performance is tracked in real time, with OHLC (Open, High, Low, Close) data being fed into the model for up-to-date predictions and decisions.
 4. Historical Data Validation: Data was validated against historical performance to test the effectiveness of the optimization algorithms.
+
+
+
+<img src="https://github.com/user-attachments/assets/8b5a298a-d300-4b1d-9ad2-8f146a782299" width="400"/>
