@@ -33,6 +33,49 @@ Additionally, live stock data is integrated using Zerodha Kite and Google Financ
 2. Hill Climbing Algorithm: This optimization algorithm is used to fine-tune the stock selection. Starting with an initial stock, the algorithm iteratively moves to the next best stock based on an evaluation score that considers PE Ratios, DER, Sales in Crore, and SMA.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Results**
+1. Stock Clusters by PE Ratios and Sales in crore(2024)
+   ![image](https://github.com/user-attachments/assets/adeb54d7-cd8a-4ce6-9a91-626e0573b2ad)
+   
+Top Stocks in Cluster 0:
+      TICKERS      Rank
+0    ADANIENT  2.394759
+2  APOLLOHOSP  2.270597
+6  BAJFINANCE  1.808150
+5  BAJAJ-AUTO  0.700868
+
+Top Stocks in Cluster 1:
+       TICKERS      Rank
+3   ASIANPAINT -0.502096
+1   ADANIPORTS -1.742887
+10       CIPLA -2.388609
+12     DRREDDY -2.687005
+8          BEL -3.966166
+
+Top Stocks in Cluster 2:
+       TICKERS      Rank
+7   BAJAJFINSV  3.464056
+9   BHARTIARTL  1.772468
+4     AXISBANK  0.177217
+11   COALINDIA -1.301352
+
+2. Tickers VS SMAs
+   ![image](https://github.com/user-attachments/assets/2fba3a28-028d-46a3-a61b-4cd8bd42f9cd)
+
+3. Selected stock using Hill Climbing Algorithm
+   Initial Stock: ADANIPORTS, Score: 11264.98
+Moved to Stock: COALINDIA, Score: 57123.55
+Moved to Stock: BHARTIARTL, Score: 61365.01
+
+Best Stock Selected:
+TICKERS                 BHARTIARTL
+PE Ratios                    42.79
+DER                           1.25
+Sales in crore(2024)      151418.0
+SMA                         1621.8
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Data Best Practices**
 1. Data Cleaning: All stock data and financial metrics were cleaned for missing or erroneous values before analysis.
 2. Normalization: Financial metrics such as PE Ratios, DER, and SMA were normalized to ensure that they contribute equally to the optimization process.
