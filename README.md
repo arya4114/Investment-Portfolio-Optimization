@@ -67,8 +67,10 @@ Top Stocks in Cluster 2:
 
 4. Selected stock using Hill Climbing Algorithm
    Initial Stock: ADANIPORTS, Score: 11264.98
+   
    Moved to Stock: COALINDIA, Score: 57123.55
-Moved to Stock: BHARTIARTL, Score: 61365.01
+   
+   Moved to Stock: BHARTIARTL, Score: 61365.01
 
 Best Stock Selected:
 TICKERS                 BHARTIARTL
