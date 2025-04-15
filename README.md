@@ -41,25 +41,27 @@ Additionally, live stock data is integrated using Zerodha Kite and Google Financ
 Top Stocks in Cluster 0:
 
       TICKERS      Rank
-0    ADANIENT  2.394759
-2  APOLLOHOSP  2.270597
-6  BAJFINANCE  1.808150
-5  BAJAJ-AUTO  0.700868
+    0    ADANIENT  2.394759
+    2  APOLLOHOSP  2.270597
+    6  BAJFINANCE  1.808150
+    5  BAJAJ-AUTO  0.700868
 
 Top Stocks in Cluster 1:
+
        TICKERS      Rank
-3   ASIANPAINT -0.502096
-1   ADANIPORTS -1.742887
-10       CIPLA -2.388609
-12     DRREDDY -2.687005
-8          BEL -3.966166
+    3   ASIANPAINT -0.502096
+    1   ADANIPORTS -1.742887
+    10       CIPLA -2.388609
+    12     DRREDDY -2.687005
+    8          BEL -3.966166
 
 Top Stocks in Cluster 2:
+
        TICKERS      Rank
-7   BAJAJFINSV  3.464056
-9   BHARTIARTL  1.772468
-4     AXISBANK  0.177217
-11   COALINDIA -1.301352
+    7   BAJAJFINSV  3.464056
+    9   BHARTIARTL  1.772468
+    4     AXISBANK  0.177217
+    11   COALINDIA -1.301352
 
 2. Tickers VS SMAs
    
