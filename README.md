@@ -99,6 +99,14 @@ Top Stocks in Cluster 2:
 3. Live Data Integration: Using APIs like Zerodha Kite and Google Finance, the portfolio's performance is tracked in real time, with OHLC (Open, High, Low, Close) data being fed into the model for up-to-date predictions and decisions.
 4. Historical Data Validation: Data was validated against historical performance to test the effectiveness of the optimization algorithms.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Tools Used**
+
+1. Python: The primary language used for data analysis, optimization, and machine learning algorithms.
+2. Zerodha Kite API: Used to fetch live stock market data for real-time analysis.
+3. Google Finance API: Used for historical stock data to train and test the optimization model.
+4. AlgoFox: A platform used to integrate real-time stock data into Microsoft Excel, enabling dynamic decision-making during market hours.
+5. Microsoft Excel: Utilized for storing and analyzing data, particularly for real-time stock tick-by-tick updates and performance monitoring.
 
 
