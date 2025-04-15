@@ -18,10 +18,7 @@ The key metrics used for portfolio optimization are:
    
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8b5a298a-d300-4b1d-9ad2-8f146a782299" width="400"/>
-   
-   Data Sample
 </p>
-
 
 Additionally, live stock data is integrated using Zerodha Kite and Google Finance, providing tick-by-tick market data for real-time analysis during market hours.
 
@@ -42,7 +39,10 @@ Additionally, live stock data is integrated using Zerodha Kite and Google Financ
 **Results**
 1. Stock Clusters by PE Ratios and Sales in crore(2024)
    
- ![image](https://github.com/user-attachments/assets/1791ae5d-f625-44a8-839a-95a5be9989a9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1791ae5d-f625-44a8-839a-95a5be9989a9" width="400"/>
+</p>
+
 
 Top Stocks in Cluster 0:
 
@@ -71,7 +71,9 @@ Top Stocks in Cluster 2:
 
 2. Tickers VS SMAs
    
-   ![image](https://github.com/user-attachments/assets/4b18a9c7-f11d-4b9f-bc69-0e691cd56fed)
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/4b18a9c7-f11d-4b9f-bc69-0e691cd56fed" width="400"/>
+</p>
 
 
 4. Selected stock using Hill Climbing Algorithm
