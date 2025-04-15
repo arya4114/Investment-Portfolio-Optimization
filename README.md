@@ -6,6 +6,7 @@ The goal of this project is to optimize an investment portfolio using predictive
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Representative Data**
+
 The dataset used in this project includes stock data from 15 prominent companies listed in the Nifty50 index. The companies analyzed are:
 ADANIENT, ADANIPORTS, APOLLOHOSP, ASIANPAINT, AXISBANK, BAJAJ-AUTO, BAJFINANCE, BAJAJFINSV, BEL, BHARTIARTL, CIPLA,COALINDIA, DRREDDY
 
