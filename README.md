@@ -39,6 +39,7 @@ Additionally, live stock data is integrated using Zerodha Kite and Google Financ
  ![image](https://github.com/user-attachments/assets/1791ae5d-f625-44a8-839a-95a5be9989a9)
 
 Top Stocks in Cluster 0:
+
       TICKERS      Rank
 0    ADANIENT  2.394759
 2  APOLLOHOSP  2.270597
@@ -72,12 +73,17 @@ Top Stocks in Cluster 2:
    
    Moved to Stock: BHARTIARTL, Score: 61365.01
 
-Best Stock Selected:
-TICKERS                 BHARTIARTL
-PE Ratios                    42.79
-DER                           1.25
-Sales in crore(2024)      151418.0
-SMA                         1621.8
+   Best Stock Selected:
+   
+   TICKERS                 BHARTIARTL
+   
+   PE Ratios                    42.79
+   
+   DER                           1.25
+   
+   Sales in crore(2024)      151418.0
+   
+   SMA                         1621.8
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
