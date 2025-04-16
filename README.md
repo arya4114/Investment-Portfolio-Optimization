@@ -104,9 +104,8 @@ Top Stocks in Cluster 2:
 **Tools Used**
 
 1. Python: The primary language used for data analysis, optimization, and machine learning algorithms.
-2. Zerodha Kite API: Used to fetch live stock market data for real-time analysis.
+2. Kite: Used to fetch yearly revenue's for the chosen few stocks. 
 3. Google Finance API: Used for historical stock data to train and test the optimization model.
-4. AlgoFox: A platform used to integrate real-time stock data into Microsoft Excel, enabling dynamic decision-making during market hours.
-5. Microsoft Excel: Utilized for storing and analyzing data, particularly for real-time stock tick-by-tick updates and performance monitoring.
+4. Microsoft Excel: Utilized for storing and analyzing data, particularly for real-time stock tick-by-tick updates and performance monitoring.
 
 
