@@ -20,7 +20,7 @@ The key metrics used for portfolio optimization are:
   <img src="https://github.com/user-attachments/assets/8b5a298a-d300-4b1d-9ad2-8f146a782299" width="400"/>
 </p>
 
-Additionally, live stock data is integrated using Zerodha Kite and Google Finance, providing tick-by-tick market data for real-time analysis during market hours.
+Additionally, live stock data is integrated using market data and Google Finance, providing tick-by-tick market data for real-time analysis during market hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Executive Driven Questions**
@@ -96,7 +96,7 @@ Top Stocks in Cluster 2:
 **Data Best Practices**
 1. Data Cleaning: All stock data and financial metrics were cleaned for missing or erroneous values before analysis.
 2. Normalization: Financial metrics such as PE Ratios, DER, and SMA were normalized to ensure that they contribute equally to the optimization process.
-3. Live Data Integration: Using APIs like Zerodha Kite and Google Finance, the portfolio's performance is tracked in real time, with OHLC (Open, High, Low, Close) data being fed into the model for up-to-date predictions and decisions.
+3. Live Data Integration: Using APIs like Google Finance, the portfolio's performance is tracked in real time, with OHLC (Open, High, Low, Close) data being fed into the model for up-to-date predictions and decisions.
 4. Historical Data Validation: Data was validated against historical performance to test the effectiveness of the optimization algorithms.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -104,7 +104,7 @@ Top Stocks in Cluster 2:
 **Tools Used**
 
 1. Python: The primary language used for data analysis, optimization, and machine learning algorithms.
-2. Kite: Used to fetch yearly revenue's for the chosen few stocks. 
+2. Market Data: Used to fetch yearly revenue's for the chosen few stocks. 
 3. Google Finance API: Used for historical stock data to train and test the optimization model.
 4. Microsoft Excel: Utilized for storing and analyzing data, particularly for real-time stock tick-by-tick updates and performance monitoring.
 
